@@ -1,0 +1,7 @@
+CountryCode	Country	TotalCases	NewCases(24hours)	Deaths	NewDeaths
+1		USA	7244184		53629			208440	895
+2		Mexico	715457		5408			75439	490
+3		Ireland	33995		319			1797	3
+4		India 	5901571		85468			93410	1093
+5		Turkey	311455		7858			7858	73
+6	 	Qatar	124650	 	220	 	 	212	2
